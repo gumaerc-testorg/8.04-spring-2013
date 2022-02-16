@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains information related to bandstructure of graphene
   and carbon nanotubes: an exercise in condensed matter physics.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2013/90f1629f3d1d7402b63e1ec821faf65d_MIT8_04S13_BandGrapheneCNT.pdf
+file: /media/courses/8-04-quantum-physics-i-spring-2013/90f1629f3d1d7402b63e1ec821faf65d_MIT8_04S13_BandGrapheneCNT.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: '8.04 Quantum Physics, Bandstructure of Graphene and Carbon Nanotubes: An Exercise
   in Condensed Matter Physics'

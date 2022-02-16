@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Dispersion of the Gaussian and the Finite Well'
 uid: 9ad88ee4-57ce-c29e-203d-e367d029f192
 video_files:
   archive_url: http://www.archive.org/download/MIT8.04S13/MIT8_04S13_lec11_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2013/1f706884c303559daf3646bf91e0e52a_iZKAtzK5WXM.vtt
+  video_captions_file: /courses/8-04-quantum-physics-i-spring-2013/1f706884c303559daf3646bf91e0e52a_iZKAtzK5WXM.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iZKAtzK5WXM/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2013/f89cf1b09d8a9661ae4b22924dfe45b6_iZKAtzK5WXM.pdf
+  video_transcript_file: /courses/8-04-quantum-physics-i-spring-2013/f89cf1b09d8a9661ae4b22924dfe45b6_iZKAtzK5WXM.pdf
 video_metadata:
   youtube_id: iZKAtzK5WXM
 ---

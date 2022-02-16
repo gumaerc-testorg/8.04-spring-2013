@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This is special file related to mathematica notebooks from recitation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-04-quantum-physics-i-spring-2013/9706543b9fe1a96c38140a4db4b029ed_Mathematica_Notebooks_from_Recitation_pdf.zip
+file: /media/courses/8-04-quantum-physics-i-spring-2013/9706543b9fe1a96c38140a4db4b029ed_Mathematica_Notebooks_from_Recitation_pdf.zip
 file_type: application/zip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Other
 title: Mathematica_Notebooks_from_Recitation_pdf.zip
 uid: 9706543b-9fe1-a96c-3814-0a4db4b029ed
