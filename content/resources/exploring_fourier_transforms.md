@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 resourcetype: Other
 title: Exploring_Fourier_Transforms.nb
 uid: 04e3c487-b47e-1296-3d25-f76093a8f7e8

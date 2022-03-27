@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 resourcetype: Document
 title: '8.04 Quantum Physics, Recitation Notes: Polarizers vs. Hyper-Intelligent Monkeys'
 uid: a9e36f82-f528-cb39-452e-f1ab5abb233c

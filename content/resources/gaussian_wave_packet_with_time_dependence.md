@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 resourcetype: Other
 title: Gaussian_Wave_Packet_with_Time_Dependence.nb
 uid: 85440c06-cc80-112d-ae3f-5ce40c3ebbda

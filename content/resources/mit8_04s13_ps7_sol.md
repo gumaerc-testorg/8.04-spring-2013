@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 67f4854d-f404-5b15-d6f7-ac855583dd41
 resourcetype: Document
 title: 8.04 Spring 2013, Problem Set 7 Solution
 uid: 40efdf7c-c15a-643e-eade-11c4178e5cf7

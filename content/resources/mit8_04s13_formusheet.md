@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d63f931f-fb03-933a-bc7c-c96bb8670ff8
 resourcetype: Document
 title: 8.04 Spring 2013 Final Exam Formula Sheet
 uid: 346ae498-c1d3-1ef3-16a4-3399ca63a99a

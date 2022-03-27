@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 resourcetype: Other
 title: Quantum_Harmonic_Oscillator.nb
 uid: d3a08401-b753-f028-6173-9fa3db1f07c2

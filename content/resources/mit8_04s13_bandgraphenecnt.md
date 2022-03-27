@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 resourcetype: Document
 title: '8.04 Quantum Physics, Bandstructure of Graphene and Carbon Nanotubes: An Exercise
   in Condensed Matter Physics'

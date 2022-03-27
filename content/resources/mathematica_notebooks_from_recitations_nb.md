@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 resourcetype: Other
 title: Mathematica_Notebooks_from_Recitations_nb.zip
 uid: 6a2c7261-7fcd-f4d8-e534-acfca5edc113
