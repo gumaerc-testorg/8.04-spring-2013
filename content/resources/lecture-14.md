@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams discusses the resonance structure of a potential barrier/well. He begins with the case of simple plane waves and then moves on to the case of wavepackets.
 
 **Instructor:** Allan Adams
+
+
+

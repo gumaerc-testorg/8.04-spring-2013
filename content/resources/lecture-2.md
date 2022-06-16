@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams gives a panoramic view on various experimental evidence that indicates the inadequacy of pre-quantum physics. He concludes the lecture with a short discussion on Bell's inequality.
 
 **Instructor:** Allan Adams
+
+
+

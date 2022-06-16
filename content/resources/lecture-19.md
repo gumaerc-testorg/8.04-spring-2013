@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams wraps up the discussion on hydrogen atoms explaining the origin of their magnetic moment. He then moves on to the quantum mechanics of systems where there are multiple identical particles.
 
 **Instructor:** Allan Adams
+
+
+

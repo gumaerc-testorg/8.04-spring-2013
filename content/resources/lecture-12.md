@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams discusses the time evolution of Gaussian wave packets both in free space and across potential steps.
 
 **Instructor:** Allan Adams
+
+
+

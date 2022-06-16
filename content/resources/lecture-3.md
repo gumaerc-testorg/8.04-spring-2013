@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams introduces wavefunctions as the fundamental quantity in describing quantum systems. Basic properties of wavefunctions are covered. Uncertainty and superposition are reiterated in the language of wavefunctions.
 
 **Instructor:** Allan Adams
+
+
+

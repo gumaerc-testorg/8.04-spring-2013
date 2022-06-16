@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams outlines how to use energy eigenfunctions to conveniently solve quantum mechanical problems involving time evolution. He then discusses various properties and features of energy eigenfunctions and their superpositions.
 
 **Instructor:** Allan Adams
+
+
+

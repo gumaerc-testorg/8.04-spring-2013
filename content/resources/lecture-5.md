@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Zwiebach gives a mathematical preliminary on operators. He then introduces postulates of quantum mechanics concerning observables and measurement. The last part of the lecture is devoted to the origins of the Schrödinger equation.
 
 **Instructor:** Barton Zwiebach
+
+
+

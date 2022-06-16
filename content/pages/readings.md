@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of introductory quantum mechanics textbooks
+  and the schedule of reading assignments by session and course topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

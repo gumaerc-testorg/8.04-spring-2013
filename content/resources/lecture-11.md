@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams discusses some qualitative features of quantum mechanical bound states. He then solves the problem of a particle in a finite potential well as the last example of bound state in the course.
 
 **Instructor:** Allan Adams
+
+
+

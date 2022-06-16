@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams gives a review on the material covered so far by going over a series of multiple choice questions. He also touches upon the Dirac notation.
 
 **Instructor:** Allan Adams
+
+
+

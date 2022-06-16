@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams reviews and answers questions on the previous lecture. Electronic properties of solids are explained using band structure. The latter part of the lecture is a historical introduction to entanglement by Prof. Levenson.
 
 **Instructor:** Allan Adams and Tom Levenson
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams reviews and further develops the theory of spin. Matrix representations of spin operators are introduced. The box apparatus experiment is revisited.
 
 **Instructor:** Allan Adams
+
+
+

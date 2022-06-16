@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides study materials for the course, including Mathematica
+  notebooks, recitation notes, additional notes, and other resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -8,28 +10,28 @@ uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 
 **Mathematica Notebooks** (These files were used by Prof. Adams during lecture sessions.)
 
-*   [Exploring Fourier Transforms (NB)]({{< baseurl >}}/resources/exploring_fourier_transforms)
-*   [Finding T and R (NB)]({{< baseurl >}}/resources/finding_t_and_r)
-*   [Spherical Harmonics (NB)]({{< baseurl >}}/resources/sphericalharmonics-source)
-*   [Inverse Scattering (NB)]({{< baseurl >}}/resources/inverse_scattering-exam_2_problems_2) (Exam 2 Problem 2)
-*   [Bands for N Wells (NB)]({{< baseurl >}}/resources/bands_for_n_wells)
-*   [Band Edges for Delta Wells (NB)]({{< baseurl >}}/resources/band_structure_for_delta_wells)
-*   [Band Edges for Delta Lattice (NB)]({{< baseurl >}}/resources/band_edges_for_delta_lattice)
-*   [Gaussian Wave Packet with Time Dependence (NB)]({{< baseurl >}}/resources/gaussian_wave_packet_with_time_dependence)
-*   [Particle in a Box Example (NB)]({{< baseurl >}}/resources/particle_in_a_box_example)
-*   [Quantum Harmonic Oscillator (NB)]({{< baseurl >}}/resources/quantum_harmonic_oscillator)
+*   {{% resource_link 04e3c487-b47e-1296-3d25-f76093a8f7e8 "Exploring Fourier Transforms (NB)" %}}
+*   {{% resource_link c16c9a86-bc6c-7f73-2c2d-0dca5b6700f1 "Finding T and R (NB)" %}}
+*   {{% resource_link 956913a4-de53-e028-9191-cc6d622cb29c "Spherical Harmonics (NB)" %}}
+*   {{% resource_link 186c965a-39d8-326e-ccb9-12644b68da9d "Inverse Scattering (NB)" %}} (Exam 2 Problem 2)
+*   {{% resource_link 2f5a0ee6-9929-a527-7618-763435bf0565 "Bands for N Wells (NB)" %}}
+*   {{% resource_link f0522ccc-6343-3996-1b53-b48f66f7d059 "Band Edges for Delta Wells (NB)" %}}
+*   {{% resource_link dc1f9061-1b8c-7c07-2637-7d7712a443c5 "Band Edges for Delta Lattice (NB)" %}}
+*   {{% resource_link 85440c06-cc80-112d-ae3f-5ce40c3ebbda "Gaussian Wave Packet with Time Dependence (NB)" %}}
+*   {{% resource_link 11044aab-bd51-e60e-8405-3e25a1e7974f "Particle in a Box Example (NB)" %}}
+*   {{% resource_link d3a08401-b753-f028-6173-9fa3db1f07c2 "Quantum Harmonic Oscillator (NB)" %}}
 
 **Recitation Notes**
 
-*   Recitation Notes: [Polarizers vs. Hyper-Intelligent Monkeys (PDF)]({{< baseurl >}}/resources/mit8_04s13_polvs-hyp-intmo)
-*   Recitation Notes: [Electron Diffraction with Crystals (PDF)]({{< baseurl >}}/resources/mit8_04s13_elecdiffwithcry)
-*   [Mathematica Notebooks from Recitation (PDF - ZIP)]({{< baseurl >}}/resources/mathematica_notebooks_from_recitation_pdf) [(NB - ZIP)]({{< baseurl >}}/resources/mathematica_notebooks_from_recitations_nb)
+*   Recitation Notes: {{% resource_link a9e36f82-f528-cb39-452e-f1ab5abb233c "Polarizers vs. Hyper-Intelligent Monkeys (PDF)" %}}
+*   Recitation Notes: {{% resource_link 6b9c41b5-4e55-4d0c-cb58-502f0d019433 "Electron Diffraction with Crystals (PDF)" %}}
+*   {{% resource_link 9706543b-9fe1-a96c-3814-0a4db4b029ed "Mathematica Notebooks from Recitation (PDF - ZIP)" %}} {{% resource_link 6a2c7261-7fcd-f4d8-e534-acfca5edc113 "(NB - ZIP)" %}}
 
 **Additional Notes**
 
-*   [Optional Problems on the Harmonic Oscillator (PDF)]({{< baseurl >}}/resources/mit8_04s13_optprobharmosci)
-*   [On Common Eigenbases of Commuting Operators (PDF)]({{< baseurl >}}/resources/mit8_04s13_oncommeigenbas) Courtesy of Paolo Glorioso.
-*   [Bandstructure of Graphene and Carbon Nanotubes: An Exercise in Condensed Matter Physics (PDF)]({{< baseurl >}}/resources/mit8_04s13_bandgraphenecnt) Courtesy of Christian Schönenberger.
+*   {{% resource_link 2f51c056-ceb5-3bff-855b-acf0eea2d4b0 "Optional Problems on the Harmonic Oscillator (PDF)" %}}
+*   {{% resource_link 9ccc9fd1-3212-4dd1-02e1-a7863e6e12ce "On Common Eigenbases of Commuting Operators (PDF)" %}} Courtesy of Paolo Glorioso.
+*   {{% resource_link 90f1629f-3d1d-7402-b63e-1ec821faf65d "Bandstructure of Graphene and Carbon Nanotubes: An Exercise in Condensed Matter Physics (PDF)" %}} Courtesy of Christian Schönenberger.
 
 **Other Resources**
 

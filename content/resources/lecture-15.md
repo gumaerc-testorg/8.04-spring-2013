@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams discusses energy degeneracy in 3D systems and its connection to rotational symmetry. The latter part of the lecture focuses on the angular momentum operators and their commutation relations.
 
 **Instructor:** Allan Adams
+
+
+
