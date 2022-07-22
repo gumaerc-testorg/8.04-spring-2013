@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of introductory quantum mechanics textbooks
+  and the schedule of reading assignments by session and course topic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8754e1a8-3f55-b46c-094c-c3f2a3f0fbe7
 ---
@@ -39,7 +44,7 @@ L1
 {{< tdopen >}}
 Introduction to Superposition
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \[E&R\] Chapter 1: Sec. 6 and 7; Chapter 2: Sec. 1, 2, 3, 4, and 5; Chapter 3: all.
@@ -79,7 +84,7 @@ L4
 {{< tdopen >}}
 Expectations, Momentum, and Uncertainty
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[E&R\] Chapter 3: all; Chapter 5: Sec. 1, 3, 4, and 6.
@@ -132,7 +137,7 @@ L7
 {{< tdopen >}}
 More on Energy Eigenstates
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[E&R\] Chapter 5: all, Chapter 6: Sec. 1, 2, and 8.
@@ -163,7 +168,7 @@ L9
 {{< tdopen >}}
 Operator Methods for the Harmonic Oscillator
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[E&R\] Chapter 6: Sec. 9, App. I.
@@ -206,7 +211,7 @@ L11
 {{< tdopen >}}
 Dispersion of the Gaussian and the Finite Well
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 \[E&R\] Chapter 6: all; App. G, H.
@@ -246,7 +251,7 @@ L14
 {{< tdopen >}}
 Resonance and the S-Matrix
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[E&R\] Chapter 6: all.
@@ -311,7 +316,7 @@ L17
 {{< tdopen >}}
 More on Central Potentials
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 
 
 \[E&R\] Chapter 7: all; App. M, N.
@@ -360,7 +365,7 @@ L21
 {{< tdopen >}}
 Periodic Lattices Part 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 \[E&R\] Chapter 13: Sec. 1–7.
@@ -392,7 +397,7 @@ L23
 More on Spin
 {{< tdclose >}}
 {{< tdopen >}}
- <No readings for this session.>
+ \<No readings for this session.>
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -404,7 +409,7 @@ L24
 Entanglement: QComputing, EPR, and Bell's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
- <No readings for this session.>
+ \<No readings for this session.>
 {{< tdclose >}}
 
 {{< trclose >}}
