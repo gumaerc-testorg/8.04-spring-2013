@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams discusses the basic principles of quantum computing. No-cloning theorem and Deutsch-Jozsa algorithm are introduced. The last part of the lecture is devoted to the EPR experiment and Bell's inequality.
 
 **Instructor:** Allan Adams
-
-
 

@@ -6,6 +6,7 @@ file: /courses/8-04-quantum-physics-i-spring-2013/5d32402080ff6d61e44d64720f9087
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 8.04 Spring 2013, Problem Set 3 Solution
 uid: 5d324020-80ff-6d61-e44d-64720f9087c2
 ---
 This is a resource file that contains information regarding problem set 3 solution.
-

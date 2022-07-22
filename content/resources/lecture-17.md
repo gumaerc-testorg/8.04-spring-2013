@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Adams solves the central potential problem in 3D and gives a general discussion on properties of the central potential. He also presents a quantum mechanical model of hydrogen atoms.
 
 **Instructor:** Allan Adams
-
-
 

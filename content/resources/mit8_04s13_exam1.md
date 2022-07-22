@@ -5,6 +5,7 @@ file: /courses/8-04-quantum-physics-i-spring-2013/ae22dbbc9da4450e3b2f7479af8641
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 8.04 Spring 2013 Exam 1
 uid: ae22dbbc-9da4-450e-3b2f-7479af8641b5
 ---
 This is a resource file that contains information regarding exam 1.
-
