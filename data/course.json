@@ -25,7 +25,7 @@
     "website": "8-04-quantum-physics-i-spring-2013"
   },
   "course_title": "Quantum Physics I",
-  "course_description": "This course covers the experimental basis of quantum physics. It introduces wave mechanics, Schr\u00f6dinger's equation in a single dimension, and Schr\u00f6dinger's equation in three dimensions.\n\nIt is the first course in the undergraduate Quantum Physics sequence, followed by [_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/pages/index.htm) and [_8.06 Quantum Physics III_](/courses/8-06-quantum-physics-iii-spring-2016/).\n",
+  "course_description": "This course covers the experimental basis of quantum physics. It introduces wave mechanics, Schr\u00f6dinger's equation in a single dimension, and Schr\u00f6dinger's equation in three dimensions.\n\nIt is the first course in the undergraduate Quantum Physics sequence, followed by [_8.05 Quantum Physics II_](/courses/8-05-quantum-physics-ii-fall-2013/) and [_8.06 Quantum Physics III_](/courses/8-06-quantum-physics-iii-spring-2016/).",
   "department_numbers": [
     "8"
   ],
@@ -40,6 +40,7 @@
     "Exams",
     "Problem Sets with Solutions"
   ],
-  "site_uid": "7fdfd316-7230-47ed-a7db-f771e8af9a4e",
+  "site_uid": "95227892-f73d-4b29-b534-59b3b8b3344d",
+  "site_short_id": "8.04-spring-2013",
   "title": "Course Metadata"
 }
