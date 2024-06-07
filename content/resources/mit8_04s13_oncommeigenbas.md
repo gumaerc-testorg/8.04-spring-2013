@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to on common eigenbases of
   commuting operators.
 file: /courses/8-04-quantum-physics-i-spring-2013/9ccc9fd132124dd102e1a7863e6e12ce_MIT8_04S13_OnCommEigenbas.pdf
+file_size: 224546
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

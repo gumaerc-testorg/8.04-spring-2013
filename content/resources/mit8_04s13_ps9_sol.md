@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding problem set
   9 solution.
 file: /courses/8-04-quantum-physics-i-spring-2013/15c4f7804e323fbecdab2ddb3a95cdaf_MIT8_04S13_ps9_sol.pdf
+file_size: 427447
 file_type: application/pdf
 learning_resource_types:
 - Assignments
