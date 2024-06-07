@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding exam 1.
 file: /courses/8-04-quantum-physics-i-spring-2013/ae22dbbc9da4450e3b2f7479af8641b5_MIT8_04S13_exam1.pdf
+file_size: 435949
 file_type: application/pdf
 learning_resource_types:
 - Exams

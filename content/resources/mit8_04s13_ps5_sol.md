@@ -3,6 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding problem set
   5 solution.
 file: /courses/8-04-quantum-physics-i-spring-2013/0c17fdf31880a332d0425d277131445c_MIT8_04S13_ps5_sol.pdf
+file_size: 390093
 file_type: application/pdf
 learning_resource_types:
 - Assignments

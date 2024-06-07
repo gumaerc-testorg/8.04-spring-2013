@@ -2,6 +2,7 @@
 content_type: resource
 description: This is special file related to band edges for delta lattice.
 file: /courses/8-04-quantum-physics-i-spring-2013/dc1f90611b8c7c0726377d7712a443c5_Band_Edges_for_Delta_Lattice.nb
+file_size: 77398
 file_type: application/mathematica
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
