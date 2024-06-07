@@ -2,6 +2,7 @@
 content_type: resource
 description: This is special file related to mathematica notebooks from recitation.
 file: /courses/8-04-quantum-physics-i-spring-2013/9706543b9fe1a96c38140a4db4b029ed_Mathematica_Notebooks_from_Recitation_pdf.zip
+file_size: 1074989
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-04-quantum-physics-i-spring-2013/d381af5cca8b70fb5560ebfdb4c0169d_Rc1vFAUnRUM.pdf
+file_size: 118196
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
