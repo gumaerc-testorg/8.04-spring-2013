@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding final exam
   formula sheet.
-file: /courses/8-04-quantum-physics-i-spring-2013/346ae498c1d31ef316a43399ca63a99a_MIT8_04S13_formusheet.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/346ae498c1d31ef316a43399ca63a99a_MIT8_04S13_formusheet.pdf
 file_size: 219085
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding problem set
   10 solution.
-file: /courses/8-04-quantum-physics-i-spring-2013/6dfe788240d812c1e60ec42b7547006b_MIT8_04S13_ps10_sol.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/6dfe788240d812c1e60ec42b7547006b_MIT8_04S13_ps10_sol.pdf
 file_size: 758930
 file_type: application/pdf
 learning_resource_types:

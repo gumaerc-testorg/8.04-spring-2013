@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to optional problems on the
   harmonic oscillator.
-file: /courses/8-04-quantum-physics-i-spring-2013/2f51c056ceb53bff855bacf0eea2d4b0_MIT8_04S13_OptProbHarmOsci.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/2f51c056ceb53bff855bacf0eea2d4b0_MIT8_04S13_OptProbHarmOsci.pdf
 file_size: 273839
 file_type: application/pdf
 learning_resource_types: []

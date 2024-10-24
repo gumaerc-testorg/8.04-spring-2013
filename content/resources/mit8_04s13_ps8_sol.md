@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a resource file that contains information regarding problem set
   8 solution.
-file: /courses/8-04-quantum-physics-i-spring-2013/65a90e8554233ec3fd96b39e9bc65dd1_MIT8_04S13_ps8_sol.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/65a90e8554233ec3fd96b39e9bc65dd1_MIT8_04S13_ps8_sol.pdf
 file_size: 384748
 file_type: application/pdf
 learning_resource_types:

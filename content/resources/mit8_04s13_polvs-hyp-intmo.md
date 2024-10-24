@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to polarizers vs. hyper-intelligent
   monkeys.
-file: /courses/8-04-quantum-physics-i-spring-2013/a9e36f82f528cb39452ef1ab5abb233c_MIT8_04S13_Polvs.Hyp-IntMo.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/a9e36f82f528cb39452ef1ab5abb233c_MIT8_04S13_Polvs.Hyp-IntMo.pdf
 file_size: 841222
 file_type: application/pdf
 learning_resource_types: []

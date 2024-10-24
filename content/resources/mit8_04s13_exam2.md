@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is a resource file that contains information regarding exam 2.
-file: /courses/8-04-quantum-physics-i-spring-2013/27f26cbde859698525f652bf3f0353cd_MIT8_04S13_exam2.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/27f26cbde859698525f652bf3f0353cd_MIT8_04S13_exam2.pdf
 file_size: 350475
 file_type: application/pdf
 learning_resource_types:
