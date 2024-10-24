@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to exploring fourier transforms.
-file: /courses/8-04-quantum-physics-i-spring-2013/04e3c487b47e12963d25f76093a8f7e8_Exploring_Fourier_Transforms.nb
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/04e3c487b47e12963d25f76093a8f7e8_Exploring_Fourier_Transforms.nb
 file_size: 391285
 file_type: application/mathematica
 learning_resource_types: []
