@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to electron diffraction with
   crystals.
-file: /courses/8-04-quantum-physics-i-spring-2013/6b9c41b54e554d0ccb58502f0d019433_MIT8_04S13_ElecDiffwithCry.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/6b9c41b54e554d0ccb58502f0d019433_MIT8_04S13_ElecDiffwithCry.pdf
 file_size: 637219
 file_type: application/pdf
 learning_resource_types: []

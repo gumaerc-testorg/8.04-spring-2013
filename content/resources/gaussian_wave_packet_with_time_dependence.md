@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to gaussian wave packet with time dependence.
-file: /courses/8-04-quantum-physics-i-spring-2013/85440c06cc80112dae3f5ce40c3ebbda_Gaussian_Wave_Packet_with_Time_Dependence.nb
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/85440c06cc80112dae3f5ce40c3ebbda_Gaussian_Wave_Packet_with_Time_Dependence.nb
 file_size: 53736
 file_type: application/mathematica
 learning_resource_types: []
