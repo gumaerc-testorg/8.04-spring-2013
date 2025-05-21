@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/1f706884c303559daf3646bf91e0e52a_iZKAtzK5WXM.vtt
+file: /courses/8-04-quantum-physics-i-spring-2013/1f706884c303559daf3646bf91e0e52a_iZKAtzK5WXM.vtt
 file_size: 126229
 file_type: application/x-subrip
 learning_resource_types: []

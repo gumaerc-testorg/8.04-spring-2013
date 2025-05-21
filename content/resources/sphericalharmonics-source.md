@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/956913a4de53e0289191cc6d622cb29c_SphericalHarmonics-source.nb
+file: /courses/8-04-quantum-physics-i-spring-2013/956913a4de53e0289191cc6d622cb29c_SphericalHarmonics-source.nb
 file_size: 14957
 file_type: application/mathematica
 learning_resource_types: []

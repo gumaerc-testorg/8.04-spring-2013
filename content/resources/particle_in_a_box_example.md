@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to particle in a box example.
-file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/11044aabbd51e60e84053e25a1e7974f_Particle_in_a_Box_Example.nb
+file: /courses/8-04-quantum-physics-i-spring-2013/11044aabbd51e60e84053e25a1e7974f_Particle_in_a_Box_Example.nb
 file_size: 33746
 file_type: application/mathematica
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to band edges for delta wells.
-file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/f0522ccc634339961b53b48f66f7d059_Band_Structure_for_Delta_Wells.nb
+file: /courses/8-04-quantum-physics-i-spring-2013/f0522ccc634339961b53b48f66f7d059_Band_Structure_for_Delta_Wells.nb
 file_size: 22515
 file_type: application/mathematica
 learning_resource_types: []
