@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to finding T and R.
-file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/c16c9a86bc6c7f732c2d0dca5b6700f1_Finding_T_and_R.nb
+file: /courses/8-04-quantum-physics-i-spring-2013/c16c9a86bc6c7f732c2d0dca5b6700f1_Finding_T_and_R.nb
 file_size: 94858
 file_type: application/mathematica
 learning_resource_types: []
