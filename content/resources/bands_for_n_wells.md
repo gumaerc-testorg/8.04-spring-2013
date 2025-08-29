@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is special file related to bands for N wells.
-file: /courses/8-04-quantum-physics-i-spring-2013/2f5a0ee69929a5277618763435bf0565_Bands_for_N_Wells.nb
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/2f5a0ee69929a5277618763435bf0565_Bands_for_N_Wells.nb
 file_size: 152608
 file_type: application/mathematica
 learning_resource_types: []
