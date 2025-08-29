@@ -3,7 +3,7 @@ content_type: resource
 description: This is a resource file that contains information regarding problem set
   2 solution.
 draft: false
-file: /courses/8-04-quantum-physics-i-spring-2013/b5df068bbb4f0747ecc5e079da574e40_MIT8_04S13_ps2_sol.pdf
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/b5df068bbb4f0747ecc5e079da574e40_MIT8_04S13_ps2_sol.pdf
 file_size: 711086
 file_type: application/pdf
 image_metadata:
