@@ -2,7 +2,7 @@
 content_type: resource
 description: This is special file related to mathematica notebooks from recitations.
 draft: false
-file: /courses/8-04-quantum-physics-i-spring-2013/6a2c72617fcdf4d8e534acfca5edc113_Mathematica_Notebooks_from_Recitations_nb.zip
+file: /ol-ocw-studio-app/courses/8-04-quantum-physics-i-spring-2013/6a2c72617fcdf4d8e534acfca5edc113_Mathematica_Notebooks_from_Recitations_nb.zip
 file_size: 537808
 file_type: application/zip
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
