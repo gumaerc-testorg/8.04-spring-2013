@@ -51,13 +51,13 @@ In addition, I recommend the following as useful and entertaining references:
 Dirac, Paul Adrien Maurice. _The Principles of Quantum Mechanics_. Clarendon Press, 2011. ISBN: 9780198520115.  
 A beautiful text, strongly recommended.
 
-Griffiths, David J. _Introduction to Quantum Mechanics_. Upper Saddle River, Pearson Prentice Hall, 2005. ISBN: 9780131118928. \[Preview with [Google Books](http://books.google.com/books?id=9sqIaRGx_EoC&printsec=frontcover)\]  
+Griffiths, David J. _Introduction to Quantum Mechanics_. Upper Saddle River, Pearson Prentice Hall, 2005. ISBN: 9780131118928. \[Preview with {{% resource_link "75846cbd-dac4-490c-9e04-0568d1d8ff5e" "Google Books" %}}\]  
 A very popular undergraduate text.
 
 Feynman, Richard P., Robert B. Leighton, and Matthew L. Sands. _The Feynman Lectures on Physics_. Addison Wesley, 1989. ISBN: 9780201500646.  
 Read again and again.
 
-Albert, David Z. _Quantum Mechanics and Experience_. Harvard University Press, 1994. ISBN: 9780674741133. \[Preview with [Google Books](http://books.google.com/books?id=HYEZD0Mh8JEC&printsec=frontcover)\]  
+Albert, David Z. _Quantum Mechanics and Experience_. Harvard University Press, 1994. ISBN: 9780674741133. \[Preview with {{% resource_link "729286da-95b5-45d8-942a-8e4e4dd9deb9" "Google Books" %}}\]  
 Chapters 1–3 provide an elegant introduction for philosophers; avoid the later chapters.
 
 Problem Sets
