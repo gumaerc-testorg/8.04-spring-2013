@@ -35,8 +35,8 @@ uid: f03b3c6e-dce4-75ba-fd1c-f3a7d18c8a99
 
 **Other Resources**
 
-- [Video of the electron double-slit experiment](https://www.youtube.com/watch?v=jvO0P5-SMxk)
-- [Video of matter waves (Z 47)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Z%2047)
-- Jaffe, R. L. "[Reflection Above the Barrier as Tunneling in Momentum Space](http://dx.doi.org/10.1119/1.3298428)." *American Journal of Physics* 78 (2010): 620.
-- Davisson, Clinton, and Lester Halbert Germer. "[Diffraction of Electrons by a Crystal of Nickel](https://journals.aps.org/pr/abstract/10.1103/PhysRev.30.705)." *Physical Review* 30, no. 6 (1927): 705.
-- Nesvizhevsky, Valery V., Hans G. Börner, et al. "[Quantum States of Neutrons in the Earth's Gravitational Field](http://dx.doi.org/10.1038/415297a)." *Nature* 415, no. 6869 (2002): 297–9.
+- {{% resource_link "d09a4432-8729-4264-bbdc-f5f9f85bb8b0" "Video of the electron double-slit experiment" %}}
+- {{% resource_link "2bc5b224-3540-4c5a-a9ec-150a2a69cef0" "Video of matter waves (Z 47)" %}}
+- Jaffe, R. L. "{{% resource_link "edbc2ece-3fec-4f35-b447-8aaa9f167618" "Reflection Above the Barrier as Tunneling in Momentum Space" %}}." *American Journal of Physics* 78 (2010): 620.
+- Davisson, Clinton, and Lester Halbert Germer. "{{% resource_link "bafe36e4-4588-4c8a-97ca-f714fdd75ba9" "Diffraction of Electrons by a Crystal of Nickel" %}}." *Physical Review* 30, no. 6 (1927): 705.
+- Nesvizhevsky, Valery V., Hans G. Börner, et al. "{{% resource_link "8de2bcee-38e6-4822-acf5-470477035299" "Quantum States of Neutrons in the Earth's Gravitational Field" %}}." *Nature* 415, no. 6869 (2002): 297–9.
